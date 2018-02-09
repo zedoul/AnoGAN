@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
+checkpoint/
+data/
+logs/
+samples/
 
 # C extensions
 *.so
